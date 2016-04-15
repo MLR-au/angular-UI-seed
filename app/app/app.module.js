@@ -7,6 +7,8 @@ angular
     'ngMessages',
     'ngSanitize',
     'ngMaterial',
+    'ui.router',
+    'app.ui.router',
   ])
   .config(function () {
   });
