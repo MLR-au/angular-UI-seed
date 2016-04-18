@@ -5,6 +5,7 @@
   },
   "repository": {},
   "devDependencies": {
+    "autoprefixer": "^6.3.6",
     "grunt": "^0.4.5",
     "grunt-angular-templates": "^0.5.7",
     "grunt-concurrent": "^1.0.0",
