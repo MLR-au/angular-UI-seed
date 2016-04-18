@@ -8,13 +8,13 @@ function setup() {
         _$controller_
       ) {
           $controller = _$controller_;
-          $controller('ComponentCtrl', { 
+          $controller('ControllerCtrl', { 
           });
       }));
 
 }
 
-describe('Controller: ComponentCtrl', function () {
+describe('Controller: ControllerCtrl', function () {
 
   describe('will test something', function() {
       setup();
